@@ -27,10 +27,6 @@ I encourage fellow learners and experienced Python developers alike to contribut
 4. Contribute by creating pull requests, opening issues, or sharing your own Python journey!
 
 ### Connect
-Let's learn Python together! Connect with me on [LinkedIn](your-linkedin-profile-url) or [Twitter](your-twitter-profile-url). I'm always up for discussions, collaborations, and learning from each other.
+Let's learn Python together! Connect with me on [LinkedIn](https://www.linkedin.com/in/madhav-bhardwaj-b27976266/) or [Twitter](your-twitter-profile-url). I'm always up for discussions, collaborations, and learning from each other.
 
 Happy coding! 🐍✨
-
----
-
-Don't forget to replace `"https://www.linkedin.com/in/madhav-bhardwaj-b27976266/"` and `""` with your actual social media profiles if you'd like to include those links. Good luck with your Python learning journey, and I hope your GitHub repo becomes a valuable resource for you and others!
